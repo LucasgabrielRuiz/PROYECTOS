@@ -1,0 +1,6 @@
+se realizo un equipo de futbol para aplicar los siguientes objetivos:
+
+ Objetivo:
+ • Aplicar los conceptos de herencia y polimorfismo en la creación de una jerarquía de clases.
+ • Utilizar la clase ArrayList y sus métodos para manipular colecciones de objetos.
+ • Practicar la sobrescritura de métodos en los casos que sea necesario.

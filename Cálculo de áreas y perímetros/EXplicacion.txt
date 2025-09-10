@@ -1,0 +1,12 @@
+Proyecto realizado:
+
+• Un sistema de Calculo
+
+OBjetivos:
+ • Aplicar el concepto de sobrecarga de métodos para crear múltiples versiones de un mismo 
+método con diferentes firmas.
+ • Utilizar clases y objetos para organizar y encapsular la funcionalidad del programa.
+ • Fomentar el uso de buenas prácticas de programación, como la modularización del código, 
+la legibilidad y el mantenimiento.
+ • Desarrollar habilidades de resolución de problemas y pensamiento lógico a través de la 
+implementación de programas completos
